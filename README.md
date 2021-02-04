@@ -2,6 +2,6 @@
 
 First project in github. 
 
-## Special Thnaks 
+## Special Thanks 
 
 special thanks to my family and mentors
